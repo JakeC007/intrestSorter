@@ -1,0 +1,9 @@
+Top Down Design For This Project
+
+This program must
+1. Read in excell sheets
+2. split each person into their own object
+3. sort the objects into groups of 4
+4. spit out sorted groups into a new excell sheet
+
+How do we do this?
